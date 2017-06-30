@@ -10,6 +10,7 @@
 	<modules>
 		<module>foodspot-service</module>
 		<module>foodspot-common</module>
+		<module>foodspot-model</module>
 	</modules>
 	<build>
 		<plugins>
